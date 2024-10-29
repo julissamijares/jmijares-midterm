@@ -6,8 +6,7 @@ feature_analysis.ipynb: This notebook is meant for me (or you) to get a better u
 and is also used to determine what features will be important to use.
 
 final_model.ipynb: This notebook contains my final model (and two additional models that weren't used), 
-and can be run to produce the same output I got. *Please run the feature_analysis first to make sure
-every file is up to date.*
+and can be run to produce the same output I got.
 
 Makefile & requirements.txt: This allow the user to run *make install* to download all the packages.
 
