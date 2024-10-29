@@ -2,6 +2,8 @@ All of the datasets that are needed are uploading in this folder.
 
 train.csv (trainingSet): full training set that was provided that contains the target column 
 "Score" and will be split into a subgroup for training and testing
+**This file is to big for me to upload to GitHub. 
+Download it here: kaggle competitions download -c cs-506-midterm-fall-2024**
 
 test.csv (testingSet): Kaggle competition testing set. It does not contain the column "Score" and 
 will not be used for training or testing, it will only be used for creating the submission file 
